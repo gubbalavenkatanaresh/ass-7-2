@@ -1,0 +1,29 @@
+.banner-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.home-container {
+  display: flex;
+}
+.close-icon {
+  align-self: flex-start;
+  cursor: pointer;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.search-icon {
+  cursor: pointer;
+}
